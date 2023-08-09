@@ -5,7 +5,7 @@ import { Button } from "../../components/Button.tsx";
 export default function AboutPage() {
   return (
     <>
-      <div class="px-48 py-4 flex flex-col justify-center">
+      <div class="px-4 sm:px-48 py-4 flex flex-col justify-center">
         <h1 class="text-3xl">About</h1>
         <p>
           Hello. I have created my own portfolio for the first time. From now
