@@ -6,7 +6,9 @@ export default function Home() {
   return (
     <>
       <div class="flex flex-col justify-center items-center">
-        <h1 class="text-5xl font-bold font-mono py-4">Daiki's portfolio</h1>
+        <h1 class="text-2xl sm:text-5xl font-bold font-mono py-4">
+          Daiki's portfolio
+        </h1>
         <div class="my-4 w-32 h-32 rounded-full drop-shadow-md overflow-hidden">
           <img
             src="/icon.png"
