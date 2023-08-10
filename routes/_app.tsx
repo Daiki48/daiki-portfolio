@@ -8,7 +8,6 @@ export default function App({ Component }: AppProps) {
       <Head>
         <meta name="description" content="My fresh portfolio" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <meta http-equiv="Content-Language" content="ja" />
         <title>Daiki's portfolio</title>
         <link
           rel="stylesheet"
